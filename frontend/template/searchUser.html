@@ -1,0 +1,25 @@
+<div  ng-controller="userController">
+  <br>
+
+    <h2>All User</h2>
+    <br>
+    <span ng-if="searchingAllUser">Loading ....</span>
+    <table class="table table-bordered" id="usersTabld">
+        <thead>
+        <tr>
+            <th>
+                User id
+            </th>
+            <th>
+                Name
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="item in items">
+            <td ng-bind="item.PIN2"></td>
+            <td ng-bind="item.Name"></td>
+        </tr>
+        </tbody>
+    </table>
+</div>

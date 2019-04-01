@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tad/lib" isTestSource="false" packagePrefix="TADPHP\" />
+      <sourceFolder url="file://$MODULE_DIR$/tad/lib/Providers" isTestSource="false" packagePrefix="TADPHP\Providers\" />
+      <sourceFolder url="file://$MODULE_DIR$/tad/lib/Exceptions" isTestSource="false" packagePrefix="TADPHP\Exceptions\" />
+      <sourceFolder url="file://$MODULE_DIR$/tad/test/helpers" isTestSource="false" packagePrefix="Test\Helpers\" />
+      <excludeFolder url="file://$MODULE_DIR$/tad/vendor/composer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

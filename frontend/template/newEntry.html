@@ -1,0 +1,22 @@
+<div  ng-controller="myController">
+    <h3>Add User</h3>
+    <hr>
+
+    <div class="form-group" style="width:500px;">
+        <label for="id">Enter User ID:</label>
+        <input type="number" class="form-control" id="id" name="" ng-model="newUser.id"><br>
+        <label for="name">Enter User Name:</label>
+        <input type="text" class="form-control" id="name" name="" ng-model="newUser.name"><br>
+        <label for="membership">Select Type:</label>
+        <select class="form-control" id="membership" ng-model="newUser.membership">
+            <option value="1">
+                Member
+            </option>
+            <option value="1">
+                staff
+            </option>
+        </select>
+        <br>
+        <button class="btn btn-warning" ng-click="addNewUser()">Save</button>
+    </div>
+</div>

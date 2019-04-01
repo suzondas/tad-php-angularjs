@@ -1,0 +1,57 @@
+<div  ng-controller="userController">
+  <br>
+
+    <h2>Report</h2>
+    <br>
+  Total Entry: <span class="badge">{{totalMembers}}</span> &nbsp;&nbsp;
+  Out Members: <span class="badge">{{outMembers}}</span>  &nbsp;&nbsp;
+  In Members: <span class="badge" style="background: orange;">{{inMembers}}</span><br><br>
+  Select by Day:
+    <button class="btn btn-success" ng-click="staticReport('today')">Today</button>
+    <button class="btn btn-success" ng-click="staticReport('yesterday')">Yesterday</button>
+
+  <br>
+  <br>
+  Select by Date:<br>
+  <div class="input-group date" data-provide="datepicker" style="width:250px;">
+    <input type="text" class="form-control" id="specificDate">
+    <div class="input-group-addon">
+      <button class="btn btn-block" ng-click="staticReport('specific')">Search</button>
+    </div>
+  </div>
+  <br>
+
+    <br>
+    <br>
+
+  <span>{{label}}</span>
+  <br>
+  <h2 ng-if="loading">Loading ...</h2>
+
+  <div class="row table-bordered" style="background:gainsboro;">
+    <div class="col-sm-2">Id</div>
+    <div class="col-sm-4">Name</div>
+    <div class="col-sm-3">Entry</div>
+    <div class="col-sm-3">Exit</div>
+  </div>
+  <style>
+    .odd{
+      background:orange;
+    }
+  </style>
+  <div class="row table-bordered" ng-repeat="item in finalRows">
+    <div class="col-sm-2">{{item.id}}</div>
+    <div class="col-sm-4">{{item.name}}</div>
+    <div class="col-sm-6">
+      <div class="row table-bordered" ng-repeat="entry in item.data">
+        <div class="col-md-6{{entry.length ===1?' odd':' even'}}" ng-repeat="i in entry">{{'2016-03-28T'+i.split(" ")[1] | date:"h:mma"}}</div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+
+<script>
+  $.fn.datepicker.defaults.format = "dd/mm/yyyy";
+</script>
