@@ -1,4 +1,5 @@
 <?php
+set_time_limit(200);
 require 'tad-php.php';
 header("Content-Type:text/json");
 $tad_factory = new TADPHP\TADFactory(['ip' => '103.91.229.62']);

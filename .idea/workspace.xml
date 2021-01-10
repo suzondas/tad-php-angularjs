@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a06ab083-ae36-46af-b3c0-9fd9980957b4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/template/newEntry.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/template/newEntry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/users.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/users.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/home.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,84 +18,65 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/tad-php.php">
+        <entry file="file://$PROJECT_DIR$/backend/add.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state relative-caret-position="92">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/tad-php/lib/TADFactory.php">
+        <entry file="file://$PROJECT_DIR$/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="989">
-              <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+            <state relative-caret-position="2231">
+              <caret line="97" column="28" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/DataTables/datatables.css">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13805" selection-start-column="13805" selection-end-column="13805" />
+            <state relative-caret-position="230">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/DataTables/datatables.js">
+        <entry file="file://$PROJECT_DIR$/frontend/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3795">
-              <caret line="165" column="73" selection-start-line="165" selection-start-column="73" selection-end-line="165" selection-end-column="73" />
+            <state relative-caret-position="828">
+              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/template/searchUser.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/tad-php/lib/Providers/TADSoap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2691">
+              <caret line="141" column="68" selection-start-line="141" selection-start-column="55" selection-end-line="141" selection-end-column="68" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#6#1208#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/tad-php/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="920">
-                <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="46">
-                <caret line="2" selection-start-line="2" selection-end-line="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/template/report.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frontend/template/newEntry.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/vendor/tad-php/lib/TADResponse.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -109,8 +91,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/users.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state relative-caret-position="23">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend/get.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -128,7 +119,6 @@
       <find>newUser</find>
       <find>search</find>
       <find>attendance</find>
-      <find>get</find>
       <find>get(</find>
       <find>yes</find>
       <find>localhost</find>
@@ -140,6 +130,10 @@
       <find>save</find>
       <find>../</find>
       <find>tad/</find>
+      <find>ajax</find>
+      <find>live</find>
+      <find>something</find>
+      <find>get</find>
     </findStrings>
     <replaceStrings>
       <replace>vendor/tad-php/</replace>
@@ -147,6 +141,8 @@
     <dirStrings>
       <dir>C:\wamp64\www\tad-php\tad</dir>
       <dir>C:\wamp64\www\tad-php</dir>
+      <dir>C:\xampp\htdocs\liveAttendance</dir>
+      <dir>D:\xampp\htdocs\tad-php-action-from-html</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -170,19 +166,19 @@
         <option value="$PROJECT_DIR$/add.php" />
         <option value="$PROJECT_DIR$/delete.php" />
         <option value="$PROJECT_DIR$/vendor/jquery/jquery-3.3.1.min.js" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/scripts/app.js" />
-        <option value="$PROJECT_DIR$/frontend/home.php" />
         <option value="$PROJECT_DIR$/frontend/template/report.html" />
         <option value="$PROJECT_DIR$/backend/add.php" />
-        <option value="$PROJECT_DIR$/backend/get.php" />
         <option value="$PROJECT_DIR$/backend/delete.php" />
         <option value="$PROJECT_DIR$/backend/report.php" />
-        <option value="$PROJECT_DIR$/backend/users.php" />
         <option value="$PROJECT_DIR$/backend/tad-php.php" />
         <option value="$PROJECT_DIR$/vendor/DataTables/datatables.css" />
         <option value="$PROJECT_DIR$/vendor/DataTables/datatables.js" />
         <option value="$PROJECT_DIR$/frontend/template/newEntry.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/frontend/home.php" />
+        <option value="$PROJECT_DIR$/backend/users.php" />
+        <option value="$PROJECT_DIR$/backend/get.php" />
       </list>
     </option>
   </component>
@@ -192,8 +188,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="x" value="-7" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -207,82 +202,29 @@
         <subPane>
           <expand>
             <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
+              <item name="tad-php-action-from-html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tad-php-action-from-html" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
+              <item name="tad-php-action-from-html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tad-php-action-from-html" type="462c0819:PsiDirectoryNode" />
               <item name="backend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
+              <item name="tad-php-action-from-html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tad-php-action-from-html" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
+              <item name="tad-php-action-from-html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tad-php-action-from-html" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="DataTables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="DataTables" type="462c0819:PsiDirectoryNode" />
-              <item name="datatables.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="DataTables" type="462c0819:PsiDirectoryNode" />
-              <item name="datatables.js" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="tad-php" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="liveAttendance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="liveAttendance" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="tad-php" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="tad-php-action-from-html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tad-php-action-from-html" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -338,18 +280,31 @@
       <workItem from="1554143540947" duration="886000" />
       <workItem from="1554144475557" duration="4456000" />
       <workItem from="1554308433850" duration="1154000" />
-      <workItem from="1554325478330" duration="63000" />
+      <workItem from="1554325478330" duration="118000" />
+      <workItem from="1554897481837" duration="2369000" />
+      <workItem from="1554905844285" duration="162000" />
+      <workItem from="1555265312749" duration="599000" />
+      <workItem from="1555344838771" duration="27000" />
+      <workItem from="1556606914714" duration="1353000" />
+      <workItem from="1556768738773" duration="104000" />
+      <workItem from="1557941495240" duration="2672000" />
+      <workItem from="1558445840245" duration="599000" />
+      <workItem from="1558985798440" duration="607000" />
+      <workItem from="1559461134232" duration="599000" />
+      <workItem from="1608471965147" duration="728000" />
+      <workItem from="1609348297692" duration="2506000" />
+      <workItem from="1609428714252" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64804000" />
+    <option name="totallyTimeSpent" value="77208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22617246" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -362,7 +317,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.072013095" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -411,50 +366,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="73" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend/t.php" />
-    <entry file="file://$PROJECT_DIR$/backend/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend/delete.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/get.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -479,13 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/tad-php/lib/TADFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/DataTables/datatables.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -495,11 +404,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/DataTables/datatables.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3795">
+        <state relative-caret-position="3726">
           <caret line="165" column="73" selection-start-line="165" selection-start-column="73" selection-end-line="165" selection-end-column="73" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/tad-php/lib/TADFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1794">
+          <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -510,20 +426,6 @@
             <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/DataTables/datatables.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/users.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -547,7 +449,76 @@
     <entry file="file://$PROJECT_DIR$/frontend/template/newEntry.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2231">
+          <caret line="97" column="28" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/template/searchUser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/tad-php/lib/Providers/TADSoap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2691">
+          <caret line="141" column="68" selection-start-line="141" selection-start-column="55" selection-end-line="141" selection-end-column="68" />
+          <folding>
+            <element signature="e#6#1208#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/tad-php/lib/TADResponse.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/DataTables/datatables.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/get.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

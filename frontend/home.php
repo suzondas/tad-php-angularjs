@@ -13,7 +13,7 @@ if (isset($_SESSION['user'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <base href="http://localhost/liveAttendance/">
+    <base href="http://localhost/tad-php-action-from-html/">
     <title>Page Title</title>
     <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap-datepicker.min.css">
